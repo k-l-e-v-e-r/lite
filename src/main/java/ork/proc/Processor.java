@@ -9,7 +9,7 @@ public final class Processor {
 
     public static void work() {
         LOG.info("-----start-----");
-        LOG.info("some heavy processing...");
+        LOG.info("heavy processing... (version 2.0.0)");
         LOG.info("-----finish-----\n");
     }
 
